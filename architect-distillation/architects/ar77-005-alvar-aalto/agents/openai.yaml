@@ -1,0 +1,12 @@
+interface:
+  display_name: "005｜Alvar Aalto Architect Skill"
+  short_description: "把阿尔托的身体优先、光与声、地形过渡、材料触感、家具与亲近公共性转成可调用项目判断，而不是木头曲线的北欧风格生成器。"
+  default_prompt: "使用 $ar77-005-alvar-aalto，基于我提供的 AR77 项目表和项目资料完成项目前期判断。"
+
+policy:
+  products:
+    - chatgpt
+    - codex
+    - api
+    - atlas
+  allow_implicit_invocation: true

@@ -1,0 +1,31 @@
+# AR77-008｜外部测试反馈
+
+## 环境
+- Agent / 平台：
+- 模型：
+- 日期：
+- Skill 安装方式：
+
+## 项目
+- 是否使用 AR77 Project Input Form：
+- 是否上传图纸：
+
+## 评分
+- 调用稳定性：/10
+- Project Conflict：/10
+- Collaboration / Route / DNA：/10
+- A/B/C 差异：/10
+- Evidence / Prototype：/10
+- 实际帮助：/10
+
+总分：/60
+
+## HARD FAIL
+是 / 否
+
+## 最有用
+
+## 最困惑
+
+## 是否愿意继续用于真实项目
+是 / 可能 / 否

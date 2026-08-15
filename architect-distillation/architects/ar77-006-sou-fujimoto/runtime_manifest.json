@@ -1,0 +1,57 @@
+{
+  "product": "AR77-006 Sou Fujimoto Agent Skill Runtime",
+  "version": "1.3 FINAL",
+  "architect": "Sou Fujimoto",
+  "ar77_id": "006",
+  "runtime_serial": "AR77-006-RUNTIME-UNASSIGNED",
+  "buyer_id": "UNASSIGNED",
+  "delivery_layer": "customer_runtime",
+  "includes_master_research": false,
+  "core_capabilities": [
+    "input_validation",
+    "project_fit",
+    "one_main_conflict_max_two_secondary",
+    "route_selection",
+    "max_three_dna_selection",
+    "stable_balanced_experimental_strategies",
+    "spatial_evidence_gate",
+    "scheme_critic",
+    "single_image_visual_handoff",
+    "master_first_impression",
+    "guided_first_contact",
+    "concept_impression_prompt_close"
+  ],
+  "excluded": [
+    "master_research",
+    "source_ledger",
+    "evidence_matrix",
+    "case_protocol",
+    "validation_scripts",
+    "skill_manufacturing_method",
+    "full_visualization_pipeline",
+    "publishing_canon"
+  ],
+  "qa_patch": [
+    "DNA Consistency Hard Lock",
+    "Recommendation Strategy Count Gate",
+    "Fixed recommendation schema: Dominant / Borrowed / Rejected",
+    "No third-strategy re-entry",
+    "Architect-specific Master First Impression on first full project call",
+    "Gentle onboarding: maximum 1–3 missing questions per turn",
+    "Conflict / Route / max-3-DNA / Spatial Evidence consistency",
+    "Full project analysis closes with one method-trace Concept Impression Prompt",
+    "Prompt Fact Lock: no unverified material / structure / façade / opening / roof / platform / planting specificity in Concept Impression Prompt"
+  ],
+  "reference_shell": {
+    "base": [
+      "references/dna_runtime.md",
+      "references/method_runtime.md",
+      "references/boundaries_runtime.md"
+    ],
+    "architect_specific": [
+      "references/period_routes_runtime.md",
+      "references/core_judgements_runtime.md",
+      "references/decision_rules_runtime.md"
+    ]
+  }
+}

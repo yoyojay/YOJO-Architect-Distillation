@@ -1,0 +1,12 @@
+interface:
+  display_name: "007｜Toyo Ito Architect Skill"
+  short_description: "把伊东丰雄的规则重写、开放基础设施场、结构表皮协同、流动网络与共同体责任转成可验证的项目判断，而不是管柱、树状立面或洞穴曲面生成器。"
+  default_prompt: "使用 $ar77-007-toyo-ito，基于我提供的 AR77 项目表和项目资料完成项目前期判断。"
+
+policy:
+  products:
+    - chatgpt
+    - codex
+    - api
+    - atlas
+  allow_implicit_invocation: true

@@ -1,0 +1,12 @@
+interface:
+  display_name: "008｜Renzo Piano Architect Skill"
+  short_description: "把伦佐·皮亚诺的服务优先、协作作者关系、构件研究、整合剖面、任务光、原型与生命周期校正转成可验证项目判断，而不是高技图像生成器。"
+  default_prompt: "使用 $ar77-008-renzo-piano，基于我提供的 AR77 项目表和项目资料完成项目前期判断。"
+
+policy:
+  products:
+    - chatgpt
+    - codex
+    - api
+    - atlas
+  allow_implicit_invocation: true

@@ -1,0 +1,61 @@
+{
+  "product": "AR77-002 Tadao Ando Agent Skill Runtime",
+  "version": "1.3 FINAL",
+  "architect": "Tadao Ando",
+  "ar77_id": "002",
+  "runtime_serial": "AR77-002-RUNTIME-UNASSIGNED",
+  "buyer_id": "UNASSIGNED",
+  "delivery_layer": "customer_runtime",
+  "includes_master_research": false,
+  "preserved_unique_mechanics": [
+    "five_period_routes",
+    "12_design_dna",
+    "4_to_7_dna_selection",
+    "boundary_path_weather_light_body_logic",
+    "contemporary_weather_accessibility_corrections",
+    "scheme_critic"
+  ],
+  "core_capabilities": [
+    "project_input_validation",
+    "project_fit",
+    "core_spatial_conflict_definition",
+    "period_routing",
+    "design_dna_selection",
+    "three_causally_different_strategies",
+    "scheme_critic",
+    "single_image_visual_handoff",
+    "master_first_impression",
+    "guided_first_contact",
+    "concept_impression_prompt_close"
+  ],
+  "excluded": [
+    "master_research",
+    "source_ledger",
+    "full_case_research_archive",
+    "skill_manufacturing_method",
+    "full_visualization_pipeline",
+    "publishing_and_carousel_factory",
+    "private_qa_history"
+  ],
+  "qa_patch": [
+    "Architect-specific Master First Impression on first full project call",
+    "Gentle onboarding: maximum 1–3 missing questions per turn",
+    "DNA Consistency Hard Lock",
+    "Recommendation Strategy Count Gate",
+    "Fixed recommendation schema: Dominant / Borrowed / Rejected",
+    "No third-strategy re-entry",
+    "Route consistency in recommendation and prompt",
+    "Full project analysis closes with one method-trace Concept Impression Prompt",
+    "Prompt Fact Lock: no unverified material / structure / façade / opening / wall / roof specificity in Concept Impression Prompt"
+  ],
+  "reference_shell": {
+    "base": [
+      "references/dna_runtime.md",
+      "references/method_runtime.md",
+      "references/boundaries_runtime.md"
+    ],
+    "architect_specific": [
+      "references/period-routing_runtime.md"
+    ]
+  }
+}

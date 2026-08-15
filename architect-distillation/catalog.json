@@ -1,0 +1,20 @@
+{
+  "product": "architect-distillation-100",
+  "title": "小宙老师·100位建筑师蒸馏计划",
+  "status": "early_bird",
+  "early_bird_price": 199,
+  "regular_price": 599,
+  "completed_count": 8,
+  "target_count": 100,
+  "updated_at": "2026-08-15",
+  "skills": [
+    {"id":"AR77-001","name":"Le Corbusier","slug":"ar77-001-le-corbusier","version":"1.3","status":"completed"},
+    {"id":"AR77-002","name":"Tadao Ando","slug":"ar77-002-tadao-ando","version":"1.3","status":"completed"},
+    {"id":"AR77-003","name":"Louis Kahn","slug":"ar77-003-louis-kahn","version":"1.4","status":"completed"},
+    {"id":"AR77-004","name":"SANAA","slug":"ar77-004-sanaa","version":"1.6","status":"completed"},
+    {"id":"AR77-005","name":"Alvar Aalto","slug":"ar77-005-alvar-aalto","version":"1.3","status":"completed"},
+    {"id":"AR77-006","name":"Sou Fujimoto","slug":"ar77-006-sou-fujimoto","version":"1.3","status":"completed"},
+    {"id":"AR77-007","name":"Toyo Ito","slug":"ar77-007-toyo-ito","version":"1.3","status":"completed"},
+    {"id":"AR77-008","name":"Renzo Piano","slug":"ar77-008-renzo-piano","version":"1.3","status":"completed"}
+  ]
+}

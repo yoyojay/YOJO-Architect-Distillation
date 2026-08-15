@@ -1,0 +1,66 @@
+{
+  "product": "AR77-008 Renzo Piano Agent Skill Runtime",
+  "version": "1.3 FINAL",
+  "architect": "Renzo Piano",
+  "ar77_id": "008",
+  "runtime_serial": "AR77-008-RUNTIME-UNASSIGNED",
+  "buyer_id": "UNASSIGNED",
+  "delivery_layer": "customer_runtime",
+  "includes_master_research": false,
+  "core_capabilities": [
+    "input_validation",
+    "project_fit",
+    "project_conflict_definition",
+    "collaboration_responsibility_map",
+    "route_selection",
+    "4_to_7_dna_selection",
+    "dna_combination_rules",
+    "three_fixed_strategy_families",
+    "plan_section_system_evidence",
+    "prototype_ladder",
+    "performance_translation",
+    "lifecycle_maintenance_correction",
+    "critical_fail_audit",
+    "scheme_critic",
+    "single_image_visual_handoff",
+    "master_first_impression",
+    "guided_first_contact",
+    "concept_impression_prompt_close"
+  ],
+  "excluded": [
+    "master_research",
+    "source_ledger",
+    "evidence_matrix",
+    "case_protocol",
+    "validation_scripts",
+    "skill_manufacturing_method",
+    "full_visualization_pipeline",
+    "publishing_canon",
+    "private_qa_history"
+  ],
+  "qa_patch": [
+    "DNA Consistency Hard Lock",
+    "Recommendation Strategy Count Gate",
+    "Fixed recommendation schema: Dominant / Borrowed / Rejected",
+    "No third-strategy re-entry",
+    "Architect-specific Master First Impression on first full project call",
+    "Gentle onboarding: maximum 1–3 missing questions per turn",
+    "Collaboration / Route / DNA / Evidence / Prototype / Performance consistency",
+    "Critical Fail blocks recommendation",
+    "Full project analysis closes with one method-trace Concept Impression Prompt",
+    "Prompt Fact Lock: no unverified material / structure / façade / opening / roof / truss / exposed-service specificity in Concept Impression Prompt"
+  ],
+  "reference_shell": {
+    "base": [
+      "references/dna_runtime.md",
+      "references/method_runtime.md",
+      "references/boundaries_runtime.md"
+    ],
+    "architect_specific": [
+      "references/core_judgements_runtime.md",
+      "references/decision_rules_runtime.md",
+      "references/limits_and_corrections_runtime.md",
+      "references/route_runtime.md"
+    ]
+  }
+}

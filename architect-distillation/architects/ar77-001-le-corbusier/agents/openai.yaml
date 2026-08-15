@@ -1,0 +1,12 @@
+interface:
+  display_name: "001｜Le Corbusier Architect Skill"
+  short_description: "把勒·柯布西耶的公开设计方法转成可调用的项目判断，而不是复制其外观。"
+  default_prompt: "使用 $ar77-001-le-corbusier。我有一个项目，请先用小宙学长的方式让我快速认识勒·柯布西耶，再一步一步带我完成项目前期判断。"
+
+policy:
+  products:
+    - chatgpt
+    - codex
+    - api
+    - atlas
+  allow_implicit_invocation: true

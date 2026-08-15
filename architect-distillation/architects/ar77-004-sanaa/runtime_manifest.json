@@ -1,0 +1,40 @@
+{
+  "product": "AR77-004 SANAA Agent Skill Runtime",
+  "version": "1.6 FINAL",
+  "architect": "SANAA",
+  "ar77_id": "004",
+  "runtime_serial": "AR77-004-RUNTIME-UNASSIGNED",
+  "buyer_id": "UNASSIGNED",
+  "delivery_layer": "customer_runtime",
+  "includes_master_research": false,
+  "core_capabilities": [
+    "input_validation",
+    "project_fit",
+    "spatial_problem_definition",
+    "dna_selection",
+    "three_strategies",
+    "scheme_critic",
+    "single_image_visual_handoff",
+    "master_first_impression",
+    "guided_first_contact",
+    "concept_impression_prompt_close"
+  ],
+  "excluded": [
+    "master_research",
+    "source_ledger",
+    "evidence_matrix",
+    "skill_manufacturing_method",
+    "full_visualization_pipeline",
+    "publishing_canon"
+  ],
+  "qa_patch": [
+    "DNA Consistency Hard Lock",
+    "Recommendation Strategy Count Gate",
+    "Fixed recommendation schema: Dominant / Borrowed / Rejected",
+    "No third-strategy re-entry in recommendation, Keep, Next, or summary",
+    "Architect-specific Master First Impression on first full project call",
+    "Gentle onboarding: maximum 1–3 missing questions per turn",
+    "Full project analysis closes with one method-trace Concept Impression Prompt",
+    "Prompt Fact Lock: no unverified material / structure / façade / opening / wall / roof specificity in Concept Impression Prompt"
+  ]
+}

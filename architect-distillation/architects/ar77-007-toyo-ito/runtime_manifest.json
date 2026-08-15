@@ -1,0 +1,62 @@
+{
+  "product": "AR77-007 Toyo Ito Agent Skill Runtime",
+  "version": "1.3 FINAL",
+  "architect": "Toyo Ito",
+  "ar77_id": "007",
+  "runtime_serial": "AR77-007-RUNTIME-UNASSIGNED",
+  "buyer_id": "UNASSIGNED",
+  "delivery_layer": "customer_runtime",
+  "includes_master_research": false,
+  "core_capabilities": [
+    "input_validation",
+    "project_fit",
+    "relational_conflict_definition",
+    "route_selection",
+    "4_to_7_dna_selection",
+    "dna_combination_rules",
+    "three_fixed_strategy_families",
+    "plan_section_system_evidence",
+    "sensory_to_performance_translation",
+    "critical_fail_audit",
+    "scheme_critic",
+    "single_image_visual_handoff",
+    "master_first_impression",
+    "guided_first_contact",
+    "concept_impression_prompt_close"
+  ],
+  "excluded": [
+    "master_research",
+    "source_ledger",
+    "evidence_matrix",
+    "case_protocol",
+    "validation_scripts",
+    "skill_manufacturing_method",
+    "full_visualization_pipeline",
+    "publishing_canon"
+  ],
+  "qa_patch": [
+    "DNA Consistency Hard Lock",
+    "Recommendation Strategy Count Gate",
+    "Fixed recommendation schema: Dominant / Borrowed / Rejected",
+    "No third-strategy re-entry",
+    "Architect-specific Master First Impression on first full project call",
+    "Gentle onboarding: maximum 1–3 missing questions per turn",
+    "Route / DNA combination / Evidence / Performance consistency",
+    "Critical Fail blocks recommendation",
+    "Full project analysis closes with one method-trace Concept Impression Prompt",
+    "Prompt Fact Lock: no unverified material / structure / façade / opening / roof / shell / column specificity in Concept Impression Prompt"
+  ],
+  "reference_shell": {
+    "base": [
+      "references/dna_runtime.md",
+      "references/method_runtime.md",
+      "references/boundaries_runtime.md"
+    ],
+    "architect_specific": [
+      "references/route_runtime.md",
+      "references/core_judgements_runtime.md",
+      "references/decision_rules_runtime.md",
+      "references/limits_and_corrections_runtime.md"
+    ]
+  }
+}

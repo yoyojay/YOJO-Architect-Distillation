@@ -1,0 +1,12 @@
+interface:
+  display_name: "006｜Sou Fujimoto Architect Skill"
+  short_description: "把藤本壮介的边界梯度、剖面关系、多中心、探索路径与自然城市交换转成可验证的项目判断，而不是白网格或透明盒子生成器。"
+  default_prompt: "使用 $ar77-006-sou-fujimoto，基于我提供的 AR77 项目表和项目资料完成项目前期判断。"
+
+policy:
+  products:
+    - chatgpt
+    - codex
+    - api
+    - atlas
+  allow_implicit_invocation: true
