@@ -8,13 +8,13 @@
   "target_count": 100,
   "updated_at": "2026-08-15",
   "skills": [
-    {"id":"AR77-001","name":"Le Corbusier","slug":"ar77-001-le-corbusier","version":"1.3","status":"completed"},
-    {"id":"AR77-002","name":"Tadao Ando","slug":"ar77-002-tadao-ando","version":"1.3","status":"completed"},
-    {"id":"AR77-003","name":"Louis Kahn","slug":"ar77-003-louis-kahn","version":"1.4","status":"completed"},
-    {"id":"AR77-004","name":"SANAA","slug":"ar77-004-sanaa","version":"1.6","status":"completed"},
-    {"id":"AR77-005","name":"Alvar Aalto","slug":"ar77-005-alvar-aalto","version":"1.3","status":"completed"},
-    {"id":"AR77-006","name":"Sou Fujimoto","slug":"ar77-006-sou-fujimoto","version":"1.3","status":"completed"},
-    {"id":"AR77-007","name":"Toyo Ito","slug":"ar77-007-toyo-ito","version":"1.3","status":"completed"},
-    {"id":"AR77-008","name":"Renzo Piano","slug":"ar77-008-renzo-piano","version":"1.3","status":"completed"}
+    {"id":"AR77-001","name_zh":"勒·柯布西耶","name_en":"Le Corbusier","category":"现代主义 / Modernism","slug":"AR77-001-勒-柯布西耶-Le-Corbusier","version":"1.3","status":"completed"},
+    {"id":"AR77-002","name_zh":"安藤忠雄","name_en":"Tadao Ando","category":"清水混凝土 / Concrete Architecture","slug":"AR77-002-安藤忠雄-Tadao-Ando","version":"1.3","status":"completed"},
+    {"id":"AR77-003","name_zh":"路易斯·康","name_en":"Louis Kahn","category":"纪念性建筑 / Monumentality","slug":"AR77-003-路易斯-康-Louis-Kahn","version":"1.4","status":"completed"},
+    {"id":"AR77-004","name_zh":"妹岛和世 / SANAA","name_en":"SANAA","category":"轻盈与透明 / Lightness","slug":"AR77-004-妹岛和世-SANAA","version":"1.6","status":"completed"},
+    {"id":"AR77-005","name_zh":"阿尔瓦·阿尔托","name_en":"Alvar Aalto","category":"人本主义 / Humanism","slug":"AR77-005-阿尔瓦-阿尔托-Alvar-Aalto","version":"1.3","status":"completed"},
+    {"id":"AR77-006","name_zh":"藤本壮介","name_en":"Sou Fujimoto","category":"原始未来 / Primitive Future","slug":"AR77-006-藤本壮介-Sou-Fujimoto","version":"1.3","status":"completed"},
+    {"id":"AR77-007","name_zh":"伊东丰雄","name_en":"Toyo Ito","category":"流动性 / Fluidity","slug":"AR77-007-伊东丰雄-Toyo-Ito","version":"1.3","status":"completed"},
+    {"id":"AR77-008","name_zh":"伦佐·皮亚诺","name_en":"Renzo Piano","category":"轻型结构 / Lightweight Structure","slug":"AR77-008-伦佐-皮亚诺-Renzo-Piano","version":"1.3","status":"completed"}
   ]
 }
