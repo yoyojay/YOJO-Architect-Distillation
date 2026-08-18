@@ -1,0 +1,12 @@
+interface:
+  display_name: "009｜Zaha Hadid Architect Skill"
+  short_description: "把 Zaha Hadid 对方向场、流线、程序编织与地景连续的判断机制转成可调用项目分析，而不是曲线或未来感生成器。"
+  default_prompt: "使用 $ar77-009-zaha-hadid，基于我提供的 AR77 项目表或自然语言项目资料完成项目前期建筑判断。"
+
+policy:
+  products:
+    - chatgpt
+    - codex
+    - api
+    - atlas
+  allow_implicit_invocation: true

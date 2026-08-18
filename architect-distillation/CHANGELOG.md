@@ -1,5 +1,11 @@
 # 更新记录
 
+## 2026-08-18
+
+- 新增 3 位建筑师 Skill：AR77-009 扎哈·哈迪德（Zaha Hadid）、AR77-010 密斯·凡·德·罗（Mies van der Rohe）、AR77-011 雷姆·库哈斯（Rem Koolhaas）。
+- 完成进度由 8 / 100 推进至 11 / 100。
+- `catalog.json` 同步更新 `completed_count` 与三个新增条目。
+
 ## 2026-08-15
 
 - 首批发布 8 位建筑师 Skill。

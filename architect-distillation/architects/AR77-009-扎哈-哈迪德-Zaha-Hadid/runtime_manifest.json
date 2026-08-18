@@ -1,0 +1,55 @@
+{
+  "product": "AR77-009 Zaha Hadid Agent Skill Runtime",
+  "version": "1.0 FINAL",
+  "architect": "Zaha Hadid",
+  "ar77_id": "009",
+  "runtime_serial": "AR77-009-RUNTIME-UNASSIGNED",
+  "buyer_id": "UNASSIGNED",
+  "delivery_layer": "customer_runtime",
+  "includes_master_research": false,
+  "method_kernel_frozen": false,
+  "smoke_test": "NOT TESTED",
+  "architect_specific_mechanics": [
+    "problem_routes",
+    "8_design_dna",
+    "2_to_4_dna_selection",
+    "directional_field",
+    "circulation_as_generator",
+    "program_interweaving",
+    "ground_section_continuity",
+    "open_ended_geometry"
+  ],
+  "core_capabilities": [
+    "input_validation",
+    "project_fit",
+    "project_conflict_definition",
+    "problem_routing",
+    "dna_selection",
+    "three_causally_different_strategies",
+    "scheme_critic",
+    "single_image_visual_handoff",
+    "master_first_impression",
+    "guided_first_contact",
+    "concept_impression_prompt_close"
+  ],
+  "excluded": [
+    "master_research",
+    "source_ledger",
+    "evidence_matrix",
+    "skill_manufacturing_method",
+    "full_visualization_pipeline",
+    "publishing_factory",
+    "private_qa_history",
+    "portrait_asset"
+  ],
+  "qa_patch": [
+    "DNA Consistency Hard Lock",
+    "Recommendation Strategy Count Gate",
+    "Fixed Dominant / Borrowed / Rejected schema",
+    "No rejected-strategy re-entry",
+    "Neutral AR77 customer identity",
+    "Maximum 1-3 missing questions per turn",
+    "Prompt Fact Lock",
+    "Zaha-specific causality gate: field/movement/program/ground before form"
+  ]
+}

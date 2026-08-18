@@ -1,0 +1,12 @@
+interface:
+  display_name: "011｜Rem Koolhaas Architect Skill"
+  short_description: "把库哈斯的程序冲突、类型重写、组织装置、剖面路径与城市后果转成可调用项目判断，而不是怪形体或 OMA 风格生成器。"
+  default_prompt: "使用 $ar77-011-rem-koolhaas，基于我提供的 AR77 项目表和项目资料完成项目前期判断。"
+
+policy:
+  products:
+    - chatgpt
+    - codex
+    - api
+    - atlas
+  allow_implicit_invocation: true

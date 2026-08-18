@@ -1,0 +1,40 @@
+{
+  "product": "AR77-011 Rem Koolhaas Agent Skill Runtime",
+  "version": "1.0 FINAL",
+  "architect": "Rem Koolhaas",
+  "ar77_id": "011",
+  "runtime_serial": "AR77-011-RUNTIME-UNASSIGNED",
+  "buyer_id": "UNASSIGNED",
+  "delivery_layer": "customer_runtime",
+  "includes_master_research": false,
+  "core_capabilities": [
+    "input_validation",
+    "project_fit",
+    "conflict_mapping",
+    "problem_route_selection",
+    "method_kernel",
+    "dna_selection",
+    "decision_rules",
+    "three_causal_strategies",
+    "recommendation_gate",
+    "scheme_critic",
+    "contemporary_corrections",
+    "master_first_impression",
+    "concept_impression_prompt_close",
+    "prompt_fact_lock",
+    "single_image_visual_handoff"
+  ],
+  "excluded": [
+    "master_research",
+    "source_ledger",
+    "evidence_matrix",
+    "factory_rules",
+    "benchmark_pack",
+    "private_qa_history",
+    "carousel_factory_logic",
+    "full_visualization_pipeline",
+    "skill_manufacturing_method"
+  ],
+  "smoke_test": "NOT TESTED",
+  "method_kernel_frozen": false
+}
