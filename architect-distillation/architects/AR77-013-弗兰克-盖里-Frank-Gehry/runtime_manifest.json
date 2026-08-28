@@ -1,0 +1,36 @@
+{
+  "product": "AR77-013 Frank Gehry Agent Skill Runtime",
+  "version": "1.0 FINAL",
+  "architect": "Frank Gehry",
+  "ar77_id": "013",
+  "delivery_layer": "customer_runtime",
+  "includes_master_research": false,
+  "runtime_serial": "AR77-013-RUNTIME-UNASSIGNED",
+  "buyer_id": "UNASSIGNED",
+  "core_capabilities": [
+    "input_validation",
+    "project_fit",
+    "project_conflicts",
+    "problem_routing",
+    "dna_selection",
+    "model_test_logic",
+    "decision_rules",
+    "three_causally_distinct_strategies",
+    "comparison",
+    "recommendation_gate",
+    "contemporary_corrections",
+    "scheme_critic",
+    "master_first_impression",
+    "concept_impression_prompt_close",
+    "prompt_fact_lock",
+    "single_image_visual_handoff"
+  ],
+  "excluded": [
+    "master_research",
+    "source_ledger",
+    "evidence_matrix",
+    "full_visualization_pipeline"
+  ],
+  "smoke_test": "NOT TESTED",
+  "method_kernel_frozen": false
+}

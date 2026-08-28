@@ -1,0 +1,12 @@
+interface:
+  display_name: "012｜Frank Lloyd Wright Architect Skill"
+  short_description: "把赖特的有机整体、空间连续、地点回应与整体—局部协调转成可调用项目判断，而不是复制代表作外观。"
+  default_prompt: "使用 $ar77-012-frank-lloyd-wright，基于我提供的 AR77 项目表或自然语言项目资料完成项目前期建筑判断。"
+
+policy:
+  products:
+    - chatgpt
+    - codex
+    - api
+    - atlas
+  allow_implicit_invocation: true
