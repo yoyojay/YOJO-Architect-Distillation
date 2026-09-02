@@ -1,0 +1,12 @@
+interface:
+  display_name: "016｜Philip Johnson Architect Skill"
+  short_description: "把菲利普·约翰逊的立场判断、先例转译、几何秩序与框景序列变成可调用建筑判断，而不是复制玻璃盒或历史符号。"
+  default_prompt: "使用 $ar77-016-philip-johnson，基于我提供的 AR77 项目表或自然语言项目资料完成项目前期建筑判断。"
+
+policy:
+  products:
+    - chatgpt
+    - codex
+    - api
+    - atlas
+  allow_implicit_invocation: true

@@ -4,9 +4,9 @@
   "status": "early_bird",
   "early_bird_price": 199,
   "regular_price": 599,
-  "completed_count": 14,
+  "completed_count": 16,
   "target_count": 100,
-  "updated_at": "2026-08-28",
+  "updated_at": "2026-09-02",
   "skills": [
     {
       "id": "AR77-001",
@@ -131,6 +131,24 @@
       "name_en": "Norman Foster",
       "category": "高技派 / High-Tech",
       "slug": "AR77-014-诺曼-福斯特-Norman-Foster",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-015",
+      "name_zh": "圣地亚哥·卡拉特拉瓦",
+      "name_en": "Santiago Calatrava",
+      "category": "结构表现主义 / Structural Expressionism",
+      "slug": "AR77-015-圣地亚哥-卡拉特拉瓦-Santiago-Calatrava",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-016",
+      "name_zh": "菲利普·约翰逊",
+      "name_en": "Philip Johnson",
+      "category": "现代主义 / 后现代主义 / Modernism-Postmodernism",
+      "slug": "AR77-016-菲利普-约翰逊-Philip-Johnson",
       "version": "1.0",
       "status": "completed"
     }

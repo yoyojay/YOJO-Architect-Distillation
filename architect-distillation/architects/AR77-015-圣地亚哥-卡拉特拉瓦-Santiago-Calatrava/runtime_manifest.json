@@ -1,0 +1,39 @@
+{
+  "product": "AR77-015 Santiago Calatrava Agent Skill Runtime",
+  "version": "1.0 FINAL",
+  "architect": "Santiago Calatrava",
+  "ar77_id": "015",
+  "runtime_serial": "AR77-015-RUNTIME-UNASSIGNED",
+  "buyer_id": "UNASSIGNED",
+  "delivery_layer": "customer_runtime",
+  "includes_master_research": false,
+  "core_capabilities": [
+    "input_validation",
+    "project_fit",
+    "project_conflicts",
+    "problem_routing",
+    "dna_selection",
+    "structural_movement_reasoning",
+    "decision_rules",
+    "three_causally_distinct_strategies",
+    "comparison",
+    "recommendation_gate",
+    "contemporary_corrections",
+    "scheme_critic",
+    "single_image_visual_handoff",
+    "master_first_impression",
+    "guided_first_contact",
+    "concept_impression_prompt_close",
+    "prompt_fact_lock"
+  ],
+  "excluded": [
+    "master_research",
+    "source_ledger",
+    "evidence_matrix",
+    "skill_manufacturing_method",
+    "full_visualization_pipeline",
+    "publishing_canon"
+  ],
+  "smoke_test": "NOT TESTED",
+  "method_kernel_frozen": false
+}

@@ -1,5 +1,11 @@
 # 更新记录
 
+## 2026-09-02
+
+- 新增 2 位建筑师 Skill：AR77-015 圣地亚哥·卡拉特拉瓦（Santiago Calatrava）、AR77-016 菲利普·约翰逊（Philip Johnson）。
+- 完成进度由 14 / 100 推进至 16 / 100。
+- `catalog.json` 同步更新 `completed_count` 与两个新增条目。
+
 ## 2026-08-28
 
 - 新增 3 位建筑师 Skill：AR77-012 弗兰克·劳埃德·赖特（Frank Lloyd Wright）、AR77-013 弗兰克·盖里（Frank Gehry）、AR77-014 诺曼·福斯特（Norman Foster）。
