@@ -1,0 +1,8 @@
+interface:
+  display_name: "AR77-017｜妹岛和世 Architect Skill"
+  short_description: "用妹岛和世蒸馏出的建筑判断机制分析真实项目，不做风格模仿。"
+  default_prompt: "调用 AR77-017 妹岛和世 Architect Skill。先锁定项目事实与适配度，再按 Method、Route、Selected DNA 生成三套因果不同策略，比较并推荐；遵守 Prompt Fact Lock 与 Anti-Copy。"
+policy:
+  products:
+    - "chatgpt"
+  allow_implicit_invocation: true

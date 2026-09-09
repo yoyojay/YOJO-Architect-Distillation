@@ -1,5 +1,11 @@
 # 更新记录
 
+## 2026-09-09
+
+- 新增 2 位建筑师 Skill：AR77-017 妹岛和世（Kazuyo Sejima）、AR77-018 西泽立卫（Ryue Nishizawa）。
+- 完成进度由 16 / 100 推进至 18 / 100。
+- `catalog.json` 同步更新 `completed_count` 与两个新增条目。
+
 ## 2026-09-02
 
 - 新增 2 位建筑师 Skill：AR77-015 圣地亚哥·卡拉特拉瓦（Santiago Calatrava）、AR77-016 菲利普·约翰逊（Philip Johnson）。

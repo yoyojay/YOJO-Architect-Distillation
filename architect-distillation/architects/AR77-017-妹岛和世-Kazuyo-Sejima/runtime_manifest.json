@@ -1,0 +1,23 @@
+{
+  "architect_id": "017",
+  "architect_name": "Kazuyo Sejima / 妹岛和世",
+  "version": "v1.0",
+  "runtime": "PASS",
+  "smoke_test": "NOT TESTED",
+  "packaging_consistency": "PASS",
+  "method_kernel_frozen": "NO / PENDING SMOKE TEST",
+  "features": [
+    "project_input",
+    "input_validation",
+    "fit",
+    "problem_routes",
+    "dna_selection",
+    "abc_strategies",
+    "recommendation_gate",
+    "contemporary_corrections",
+    "scheme_critic",
+    "prompt_fact_lock",
+    "single_image_visual_handoff"
+  ],
+  "customer_delivery": true
+}

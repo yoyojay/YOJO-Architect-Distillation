@@ -1,0 +1,35 @@
+{
+  "product": "AR77-018 Ryue Nishizawa Agent Skill Runtime",
+  "version": "1.0 FINAL",
+  "architect": "Ryue Nishizawa / 西泽立卫",
+  "ar77_id": "018",
+  "runtime_serial": "AR77-018-RUNTIME-UNASSIGNED",
+  "buyer_id": "UNASSIGNED",
+  "delivery_layer": "customer_runtime",
+  "includes_master_research": false,
+  "method_kernel_frozen": false,
+  "smoke_test": "NOT TESTED",
+  "core_capabilities": [
+    "input_validation",
+    "project_fit",
+    "problem_routing",
+    "dna_selection",
+    "three_causally_different_strategies",
+    "recommendation_gate",
+    "contemporary_corrections",
+    "scheme_critic",
+    "master_first_impression",
+    "concept_impression_prompt_close",
+    "single_image_visual_handoff"
+  ],
+  "excluded": [
+    "master_research",
+    "source_ledger",
+    "evidence_matrix",
+    "factory_rules",
+    "benchmark_pack",
+    "private_qa_history",
+    "carousel_factory",
+    "publishing_factory"
+  ]
+}
