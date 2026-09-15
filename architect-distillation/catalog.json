@@ -4,9 +4,9 @@
   "status": "early_bird",
   "early_bird_price": 199,
   "regular_price": 599,
-  "completed_count": 18,
+  "completed_count": 21,
   "target_count": 100,
-  "updated_at": "2026-09-09",
+  "updated_at": "2026-09-15",
   "skills": [
     {
       "id": "AR77-001",
@@ -167,6 +167,33 @@
       "name_en": "Ryue Nishizawa",
       "category": "关系性建筑 / Relational Architecture",
       "slug": "AR77-018-西泽立卫-Ryue-Nishizawa",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-019",
+      "name_zh": "让·努维尔",
+      "name_en": "Jean Nouvel",
+      "category": "场所与表皮 / Context & Façade",
+      "slug": "AR77-019-让-努维尔-Jean-Nouvel",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-020",
+      "name_zh": "瓦尔特·格罗皮乌斯",
+      "name_en": "Walter Gropius",
+      "category": "现代主义 / 包豪斯 / Modernism-Bauhaus",
+      "slug": "AR77-020-瓦尔特-格罗皮乌斯-Walter-Gropius",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-021",
+      "name_zh": "坂茂",
+      "name_en": "Shigeru Ban",
+      "category": "纸木构造 / 人道主义 / Paper & Timber",
+      "slug": "AR77-021-坂茂-Shigeru-Ban",
       "version": "1.0",
       "status": "completed"
     }

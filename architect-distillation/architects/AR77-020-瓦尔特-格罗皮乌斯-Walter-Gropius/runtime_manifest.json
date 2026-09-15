@@ -1,0 +1,34 @@
+{
+  "product": "AR77-020 Walter Gropius Agent Skill Runtime",
+  "version": "1.0 FINAL",
+  "architect": "Walter Gropius",
+  "ar77_id": "020",
+  "runtime_serial": "AR77-020-RUNTIME-UNASSIGNED",
+  "buyer_id": "UNASSIGNED",
+  "delivery_layer": "customer_runtime",
+  "includes_master_research": false,
+  "core_capabilities": [
+    "input_validation",
+    "project_fit",
+    "problem_routing",
+    "dna_selection",
+    "three_causally_different_strategies",
+    "recommendation_gate",
+    "scheme_critic",
+    "contemporary_corrections",
+    "single_image_visual_handoff",
+    "master_first_impression",
+    "concept_impression_prompt_close",
+    "prompt_fact_lock"
+  ],
+  "excluded": [
+    "master_research",
+    "source_ledger",
+    "evidence_matrix",
+    "factory_rules",
+    "benchmark_pack",
+    "carousel_factory",
+    "publishing_factory",
+    "private_qa_history"
+  ]
+}

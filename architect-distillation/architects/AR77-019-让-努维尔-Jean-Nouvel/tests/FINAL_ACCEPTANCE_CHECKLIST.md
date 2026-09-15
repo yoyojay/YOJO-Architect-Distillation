@@ -1,0 +1,17 @@
+# FINAL ACCEPTANCE CHECKLIST
+- [x] Runtime completeness functions present in SKILL.md
+- [x] First Impression paragraph 120–180 Chinese characters
+- [x] Exactly 3 keywords; exactly 1 “不要误读成”
+- [x] A/B/C causally distinct
+- [x] Recommendation fixed schema
+- [x] Rejected Strategy and unselected DNA/Routes blocked
+- [x] Prompt Fact Lock
+- [x] Single Image Handoff only after confirmation
+- [x] Anti-Copy
+- [x] Professional Boundary
+- [x] Mother required files present
+- [x] openai.yaml interface/policy schema retained
+- [x] Customer delivery protection
+- [x] Reference integrity
+- [x] Carousel readiness: Method / Routes / DNA / selection / rules / corrections / anti-copy / prompt lock readable
+- [ ] Real target-Agent Smoke Test (NOT TESTED)

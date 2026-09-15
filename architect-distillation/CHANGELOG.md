@@ -1,5 +1,11 @@
 # 更新记录
 
+## 2026-09-15
+
+- 新增 3 位建筑师 Skill：AR77-019 让·努维尔（Jean Nouvel）、AR77-020 瓦尔特·格罗皮乌斯（Walter Gropius）、AR77-021 坂茂（Shigeru Ban）。
+- 完成进度由 18 / 100 推进至 21 / 100。
+- `catalog.json` 同步更新 `completed_count` 与三个新增条目。
+
 ## 2026-09-09
 
 - 新增 2 位建筑师 Skill：AR77-017 妹岛和世（Kazuyo Sejima）、AR77-018 西泽立卫（Ryue Nishizawa）。

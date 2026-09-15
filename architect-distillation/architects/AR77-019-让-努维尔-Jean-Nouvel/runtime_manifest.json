@@ -1,0 +1,32 @@
+{
+  "product": "AR77-019 Jean Nouvel Agent Skill Runtime",
+  "version": "1.0 FINAL",
+  "architect": "Jean Nouvel",
+  "ar77_id": "019",
+  "delivery_layer": "customer_runtime",
+  "smoke_test": "NOT TESTED",
+  "method_kernel_frozen": false,
+  "core_capabilities": [
+    "input_validation",
+    "project_fit",
+    "problem_routes",
+    "dna_selection",
+    "three_causal_strategies",
+    "recommendation_gate",
+    "contemporary_corrections",
+    "scheme_critic",
+    "master_first_impression",
+    "concept_impression_prompt_close",
+    "prompt_fact_lock",
+    "single_image_visual_handoff"
+  ],
+  "excluded": [
+    "master_research",
+    "source_ledger",
+    "evidence_matrix",
+    "factory_rules",
+    "benchmark_pack",
+    "private_qa_history",
+    "carousel_factory_logic"
+  ]
+}

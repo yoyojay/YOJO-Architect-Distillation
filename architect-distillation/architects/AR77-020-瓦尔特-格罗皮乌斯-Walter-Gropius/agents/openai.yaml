@@ -1,0 +1,12 @@
+interface:
+  display_name: "020｜Walter Gropius Architect Skill"
+  short_description: "把格罗皮乌斯的功能组织、协作综合与工业转译变成可调用建筑判断，而不是 Bauhaus 外观生成器。"
+  default_prompt: "使用 $ar77-020-walter-gropius，基于我提供的 AR77 项目资料完成项目前期判断。"
+
+policy:
+  products:
+    - chatgpt
+    - codex
+    - api
+    - atlas
+  allow_implicit_invocation: true
