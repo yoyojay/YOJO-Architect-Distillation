@@ -1,0 +1,11 @@
+# Boundaries + Contemporary Corrections
+- climate: 当代高层/商业围护需按朝向、热工、日照、雨水、风环境验证。
+- accessibility: 入口、门槛、商业首层、垂直交通必须无障碍。
+- fire: 高层疏散、核心筒、分区、烟控和材料必须符合当地规范。
+- structure: 历史钢框架经验不能替代当代抗震、抗风、渐进倒塌等计算。
+- MEP: 功能表达不能遮蔽竖井、设备层、维护与更新需求。
+- acoustics/privacy: 混合功能与开放商业界面验证声学/隐私。
+- operations: 首层公共性与安保、装卸、后勤、夜间运营协调。
+- maintenance: ornament/复杂表面、幕墙、入口构件必须可清洁、维修、替换。
+- cost/procurement: 定制 ornament 必须比较标准化/数字制造/常规系统与供应链。
+- lifecycle: 材料、围护、能耗、适应性改造和长期维护纳入整体完整性。

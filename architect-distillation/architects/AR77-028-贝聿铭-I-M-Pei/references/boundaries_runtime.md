@@ -1,0 +1,12 @@
+# Boundaries + Contemporary Corrections
+- climate: 光、透明围护、热工、日照、雨、风按地点验证。
+- accessibility: 公共路径、高差、入口、地下连接连续无障碍。
+- fire: atrium/大空间/地下/博物馆按当地疏散、烟控和材料法规。
+- structure: 大跨、尖角、空间结构、地下结构由工程师验证。
+- MEP: 公共中心、展厅、地下大厅需真实设备/检修/湿度控制。
+- acoustics/privacy: 大体量公共空间与研究/办公分区验证。
+- operations: visitor flow、安保、票务、后勤、展品运输、闭馆分区。
+- maintenance: 高位玻璃/天窗/石材接缝/排水若被选用必须维护验证。
+- cost/procurement: 高精度定制构件与材料比较供应链、公差和替换。
+- lifecycle: embodied carbon、运行能耗、材料更新、适应未知未来。
+- heritage: 新旧关系必须遵循当地保护法规与可逆性/考古等要求。

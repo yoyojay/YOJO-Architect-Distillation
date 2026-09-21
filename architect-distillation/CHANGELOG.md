@@ -1,5 +1,11 @@
 # 更新记录
 
+## 2026-09-21
+
+- 新增 6 位建筑师 Skill：AR77-023 安东尼·高迪（Antoni Gaudi）、AR77-024 奥斯卡·尼迈耶（Oscar Niemeyer）、AR77-025 巴克敏斯特·富勒（Buckminster Fuller）、AR77-026 路易斯·沙利文（Louis Sullivan）、AR77-027 西萨·佩里（Cesar Pelli）、AR77-028 贝聿铭（I. M. Pei）。
+- 完成进度由 21 / 100 推进至 27 / 100。
+- `catalog.json` 同步更新 `completed_count` 与六个新增条目。
+
 ## 2026-09-15
 
 - 新增 3 位建筑师 Skill：AR77-019 让·努维尔（Jean Nouvel）、AR77-020 瓦尔特·格罗皮乌斯（Walter Gropius）、AR77-021 坂茂（Shigeru Ban）。

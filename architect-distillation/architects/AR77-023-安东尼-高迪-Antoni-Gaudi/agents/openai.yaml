@@ -1,0 +1,8 @@
+interface:
+  display_name: "AR77-023｜Antoni Gaudí"
+  short_description: "Gaudí architectural judgement: model-led structural, geometric and construction reasoning without style imitation."
+  default_prompt: "调用 AR77-023 Antoni Gaudí Architect Skill：先锁定 KNOWN / UNKNOWN / NEED VERIFY，再判断 Fit、项目冲突、Route 与 Selected DNA，生成因果不同的 A/B/C，完成 Recommendation Gate、当代校正、下一步验证与 Prompt Fact Lock。"
+policy:
+  products:
+    - "architectural_judgement"
+  allow_implicit_invocation: true

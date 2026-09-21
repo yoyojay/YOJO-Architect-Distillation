@@ -4,9 +4,9 @@
   "status": "early_bird",
   "early_bird_price": 199,
   "regular_price": 599,
-  "completed_count": 21,
+  "completed_count": 27,
   "target_count": 100,
-  "updated_at": "2026-09-15",
+  "updated_at": "2026-09-21",
   "skills": [
     {
       "id": "AR77-001",
@@ -194,6 +194,60 @@
       "name_en": "Shigeru Ban",
       "category": "纸木构造 / 人道主义 / Paper & Timber",
       "slug": "AR77-021-坂茂-Shigeru-Ban",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-023",
+      "name_zh": "安东尼·高迪",
+      "name_en": "Antoni Gaudi",
+      "category": "有机曲线 / 加泰罗尼亚现代主义 / Organic & Catalan Modernisme",
+      "slug": "AR77-023-安东尼-高迪-Antoni-Gaudi",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-024",
+      "name_zh": "奥斯卡·尼迈耶",
+      "name_en": "Oscar Niemeyer",
+      "category": "现代主义 / 自由曲线 / Modernism & Free Curves",
+      "slug": "AR77-024-奥斯卡-尼迈耶-Oscar-Niemeyer",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-025",
+      "name_zh": "巴克敏斯特·富勒",
+      "name_en": "Buckminster Fuller",
+      "category": "几何结构 / 张力壳 / Geodesic & Tensegrity",
+      "slug": "AR77-025-巴克敏斯特-富勒-Buckminster-Fuller",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-026",
+      "name_zh": "路易斯·沙利文",
+      "name_en": "Louis Sullivan",
+      "category": "有机装饰 / 形式追随功能 / Organic Ornament",
+      "slug": "AR77-026-路易斯-沙利文-Louis-Sullivan",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-027",
+      "name_zh": "西萨·佩里",
+      "name_en": "Cesar Pelli",
+      "category": "高层立面 / 城市肌理 / Tall Building & Urban Fabric",
+      "slug": "AR77-027-西萨-佩里-Cesar-Pelli",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-028",
+      "name_zh": "贝聿铭",
+      "name_en": "I. M. Pei",
+      "category": "几何抽象 / 公共空间 / Geometric Abstraction",
+      "slug": "AR77-028-贝聿铭-I-M-Pei",
       "version": "1.0",
       "status": "completed"
     }

@@ -1,0 +1,11 @@
+# Boundaries + Contemporary Corrections
+- climate: 太阳、热、雨、风、遮阴、热舒适必须按项目地点验证。
+- accessibility: 坡道、平台、高差和长路径必须满足当地无障碍。
+- fire: 大空间、集会、疏散、烟控、材料均需专业验证。
+- structure: 大跨、薄构件、悬挑、曲面须计算抗震/抗风/鲁棒性。
+- MEP: 雕塑性体量不得挤压设备、竖井、检修与替换。
+- acoustics/privacy: 公共大空间与文化空间验证混响和分区。
+- operations: 仪式性到达必须兼容日常后勤、安保、夜间运营。
+- maintenance: 高处、曲面、外露边缘、排水和清洁可达。
+- cost/procurement: 非标准模板/构件比较标准化、重复率和供应链。
+- lifecycle: 不把历史混凝土表达自动视为低成本或低碳；材料选择需生命周期验证。

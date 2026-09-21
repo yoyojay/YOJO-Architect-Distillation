@@ -1,0 +1,8 @@
+interface:
+  display_name: "AR77-024｜Oscar Niemeyer"
+  short_description: "Niemeyer architectural judgement: structural release, clear civic form, site and movement without style imitation."
+  default_prompt: "调用 AR77-024 Oscar Niemeyer Architect Skill：锁定事实，判断 Fit、冲突、Route 与 Selected DNA，生成因果不同的 A/B/C，完成 Recommendation、当代校正、确认点与 Prompt Fact Lock。"
+policy:
+  products:
+    - "architectural_judgement"
+  allow_implicit_invocation: true

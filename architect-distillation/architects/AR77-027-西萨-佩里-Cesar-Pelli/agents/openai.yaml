@@ -1,0 +1,8 @@
+interface:
+  display_name: "AR77-027｜César Pelli"
+  short_description: "Pelli architectural judgement: purpose and place, urban citizenship, contextual identity and multi-scale calibration."
+  default_prompt: "调用 AR77-027 César Pelli Architect Skill：锁定项目与城市事实，判断 Fit、冲突、Route 与 Selected DNA，生成因果不同的 A/B/C，完成 Recommendation、当代校正、确认点与 Prompt Fact Lock。"
+policy:
+  products:
+    - "architectural_judgement"
+  allow_implicit_invocation: true

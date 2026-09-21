@@ -1,0 +1,8 @@
+interface:
+  display_name: "AR77-026｜Louis Sullivan"
+  short_description: "Sullivan architectural judgement: function, type, whole-part integrity and integral ornament without historical copying."
+  default_prompt: "调用 AR77-026 Louis Sullivan Architect Skill：先锁定 KNOWN / UNKNOWN / NEED VERIFY，再判断 Fit、项目冲突、Route 与 Selected DNA，生成因果不同的 A/B/C，完成 Recommendation、当代校正、确认点与 Prompt Fact Lock。"
+policy:
+  products:
+    - "architectural_judgement"
+  allow_implicit_invocation: true

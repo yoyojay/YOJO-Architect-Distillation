@@ -1,0 +1,12 @@
+# Boundaries + Contemporary Corrections
+- climate: 立面、公共地面、遮阳、风、热、雨与城市热环境按地点验证。
+- accessibility: 公共路径、广场、高差、入口和垂直交通连续无障碍。
+- fire: 高层/大型公共项目按当地消防、疏散、烟控和材料法规。
+- structure: 高层体型、风、抗震、核心筒、外伸臂等由工程师验证，不从历史案例复制。
+- MEP: 高层设备层、竖井、机房、检修与 façade integration 必须真实。
+- acoustics/privacy: 公共空间、办公/住宅混合及开放界面验证。
+- operations: public realm 与安保、装卸、车行、夜间、活动运营协调。
+- maintenance: 幕墙、高处、顶部、公共景观的清洁维修与替换可达。
+- cost/procurement: 特殊表皮/顶部/大跨度构件纳入供应链与公差。
+- lifecycle: embodied carbon、运营能耗、幕墙更新、未来适应纳入城市责任。
+- tall-building correction: wind comfort、vertical transport、egress、façade performance 与 embodied carbon 优先于 icon ambition。

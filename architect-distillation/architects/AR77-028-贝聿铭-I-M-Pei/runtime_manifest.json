@@ -1,0 +1,22 @@
+{
+  "architect_id": "028",
+  "architect_name": "I. M. Pei",
+  "version": "1.0",
+  "package_role": "customer_callable_runtime",
+  "features": [
+    "first_contact",
+    "input_validation",
+    "fit",
+    "problem_routes",
+    "dna_selection",
+    "decision_rules",
+    "abc_strategies",
+    "recommendation_gate",
+    "contemporary_corrections",
+    "scheme_critic",
+    "prompt_fact_lock",
+    "single_image_visual_handoff"
+  ],
+  "smoke_test": "NOT TESTED",
+  "method_kernel_frozen": "NO / PENDING SMOKE TEST"
+}

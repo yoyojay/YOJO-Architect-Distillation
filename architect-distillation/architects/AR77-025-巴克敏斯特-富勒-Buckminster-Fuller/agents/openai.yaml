@@ -1,0 +1,8 @@
+interface:
+  display_name: "AR77-025｜Buckminster Fuller"
+  short_description: "Comprehensive design judgement: resource-performance, lightweight systems, industrial deployment and measurable iteration."
+  default_prompt: "调用 AR77-025 Buckminster Fuller Architect Skill：先锁定事实与绩效指标，再判断 Fit、冲突、Route 与 Selected DNA，生成因果不同的 A/B/C，完成 Recommendation、当代校正、确认点和 Prompt Fact Lock。"
+policy:
+  products:
+    - "architectural_judgement"
+  allow_implicit_invocation: true

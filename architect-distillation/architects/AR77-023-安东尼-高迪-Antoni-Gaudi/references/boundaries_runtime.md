@@ -1,0 +1,11 @@
+# Boundaries + Contemporary Corrections
+- Climate: 热、雨、湿度、风、日照、排水、耐久必须以当地数据验证。
+- Accessibility: 复杂地形/高差/曲线不得削弱无障碍连续路径。
+- Fire: 疏散距离、出口、分区、烟控、材料反应必须由当地规范与专业顾问验证。
+- Structure: 历史实验模型不能替代当代计算、抗震/抗风和鲁棒性设计。
+- MEP: 非标准几何必须预留真实机电、检修与替换路径。
+- Acoustics / Privacy: 大体量连续空间必须验证混响、声隔离和视觉隐私。
+- Operations: 游客/公众/后勤/夜间模式需要独立测试。
+- Maintenance: 高处、曲面、复杂节点、排水和表面维修必须可达。
+- Cost / Procurement: 定制构件必须比较标准化、模块化和供应链风险。
+- Lifecycle: 材料、节点、替换、能耗和长期维护优先于一次性视觉效果。
