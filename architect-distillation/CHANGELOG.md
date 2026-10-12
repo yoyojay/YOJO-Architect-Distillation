@@ -1,5 +1,12 @@
 # 更新记录
 
+## 2026-10-12
+
+- 新增 8 位建筑师 Skill：AR77-031 本·范·伯克尔（Ben van Berkel）、AR77-032 伯纳德·屈米（Bernard Tschumi）、AR77-033 赫里特·托马斯·里特维尔德（Gerrit Thomas Rietveld）、AR77-034 埃里希·门德尔松（Erich Mendelsohn）、AR77-035 SOM 建筑事务所（Skidmore, Owings & Merrill）、AR77-036 丹下健三（Kenzo Tange）、AR77-037 约恩·伍重（Jorn Utzon）、AR77-038 山崎实（Minoru Yamasaki）。
+- 完成进度由 27 / 100 推进至 35 / 100。
+- `catalog.json` 同步更新 `completed_count` 与八个新增条目。
+- 注：本批次收到的 AR77-029（阿尔瓦罗·西扎）与 AR77-030（安托万·普雷多克）仅为发布层 collateral（大众传播 / 小红书 SOP），不包含可安装的 Agent Skill 运行包，故未以技能目录形式入库；待对应 `AGENT_SKILL_FINAL` 运行包补齐后再行发布。
+
 ## 2026-09-21
 
 - 新增 6 位建筑师 Skill：AR77-023 安东尼·高迪（Antoni Gaudi）、AR77-024 奥斯卡·尼迈耶（Oscar Niemeyer）、AR77-025 巴克敏斯特·富勒（Buckminster Fuller）、AR77-026 路易斯·沙利文（Louis Sullivan）、AR77-027 西萨·佩里（Cesar Pelli）、AR77-028 贝聿铭（I. M. Pei）。

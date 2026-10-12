@@ -1,0 +1,12 @@
+interface:
+  display_name: "036｜Kenzo Tange Architect Skill"
+  short_description: "把丹下健三的逻辑—人性综合、传统催化、公共记忆、结构集体空间、城市增长与可变基础设施转成可调用项目判断，而不是悬索屋顶、混凝土或巨构风格生成器。"
+  default_prompt: "使用 $ar77-036-kenzo-tange，基于我提供的 AR77 项目表和项目资料完成项目前期建筑判断。"
+
+policy:
+  products:
+    - chatgpt
+    - codex
+    - api
+    - atlas
+  allow_implicit_invocation: true

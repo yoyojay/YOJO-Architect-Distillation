@@ -1,0 +1,12 @@
+interface:
+  display_name: "038｜Minoru Yamasaki Architect Skill"
+  short_description: "把山崎实的人本体验、宁静与惊喜、巨大尺度调停、庭院公共空间、光影节奏与工业重复中的丰富度转成可调用项目判断，而不是尖拱、窄窗或新形式主义风格生成器。"
+  default_prompt: "使用 $ar77-038-minoru-yamasaki，基于我提供的 AR77 项目表和项目资料完成项目前期建筑判断。"
+
+policy:
+  products:
+    - chatgpt
+    - codex
+    - api
+    - atlas
+  allow_implicit_invocation: true

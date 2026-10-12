@@ -1,0 +1,2 @@
+# TEST 01｜STANDARD PROJECT INPUT
+PASS：KNOWN / UNKNOWN / NEED VERIFY 分开；Fit 有理由；3–5 conflicts；Primary Route exactly 1；Secondary ≤1；D01 mandatory；DNA total 2–4；A/B/C 因果不同；每案有 Plan / Section / Movement / Performance trace；Recommendation 固定 schema；Dominant 独立；Borrowed ≤1；Rejected / unselected Route-DNA 无回流；Corrections 完整；Next Tests 1–2；exactly one Prompt Close；Prompt Fact Lock PASS。

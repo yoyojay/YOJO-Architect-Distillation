@@ -1,0 +1,4 @@
+# AR77-038｜FINAL ACCEPTANCE CHECKLIST
+Required Runtime：Product Role / First Contact / Gentle Guidance / Input Gate / Input Validation / Default Flow / Fit / Conflicts / Method / Route / DNA + Selection / Decision Rules / Anti-Premature-Form / A-B-C / Comparison / Recommendation / Corrections / Critic / Anti-Copy / Professional Boundary / Architect Confirmation / Prompt Close / Prompt Fact Lock / Single Image Handoff / Final Compliance / Runtime Source Hierarchy / Delivery Protection / Next Drawings-Tests.
+Mother：missing functions/files=[]；openai.yaml schema inherited；Input Form / Output Template / Handoff roles preserved；manifest customer-safe；internal QA excluded；SHA256；Clean ZIP.
+HARD FAIL：World Trade Center form copied；pointed arches / narrow windows inferred as default；water features inserted without climate/maintenance evidence；unsupported Prompt facts；humanism claimed without social/operational validation.

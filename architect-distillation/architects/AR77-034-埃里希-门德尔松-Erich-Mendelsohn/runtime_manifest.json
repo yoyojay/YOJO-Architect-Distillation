@@ -1,0 +1,48 @@
+{
+  "product": "AR77-034 Erich Mendelsohn Agent Skill Runtime",
+  "version": "1.0 FINAL",
+  "architect": "Erich Mendelsohn",
+  "ar77_id": "034",
+  "runtime_serial": "AR77-034-RUNTIME-UNASSIGNED",
+  "buyer_id": "UNASSIGNED",
+  "delivery_layer": "customer_runtime",
+  "includes_master_research": false,
+  "core_capabilities": [
+    "input_validation",
+    "project_fit",
+    "project_conflicts",
+    "method_kernel",
+    "problem_route_selection",
+    "dna_selection",
+    "three_causally_distinct_strategies",
+    "comparison",
+    "recommendation_gate",
+    "contemporary_corrections",
+    "scheme_critic",
+    "architect_confirmation",
+    "concept_impression_prompt_close",
+    "prompt_fact_lock",
+    "single_image_visual_handoff"
+  ],
+  "excluded": [
+    "master_research",
+    "source_ledger",
+    "evidence_matrix",
+    "skill_manufacturing_method",
+    "factory_rules",
+    "benchmark_pack",
+    "private_qa_history",
+    "carousel_factory_logic",
+    "full_visualization_pipeline"
+  ],
+  "qa_features": [
+    "First Impression Content Gate",
+    "Route Selection Hard Lock",
+    "DNA Consistency Hard Lock",
+    "A/B/C Causal Difference Lock",
+    "Recommendation Gate",
+    "Prompt Fact Lock",
+    "Anti-Copy Lock",
+    "Final Response Compliance Gate"
+  ]
+}

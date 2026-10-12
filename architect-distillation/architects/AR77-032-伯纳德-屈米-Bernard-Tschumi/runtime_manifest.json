@@ -1,0 +1,46 @@
+{
+  "product": "AR77-032 Bernard Tschumi Agent Skill Runtime",
+  "version": "1.0 FINAL",
+  "architect": "Bernard Tschumi",
+  "ar77_id": "032",
+  "runtime_serial": "AR77-032-RUNTIME-UNASSIGNED",
+  "buyer_id": "UNASSIGNED",
+  "delivery_layer": "customer_runtime",
+  "includes_master_research": false,
+  "method_kernel_frozen": false,
+  "smoke_test": "NOT TESTED",
+  "core_capabilities": [
+    "input_validation",
+    "project_fit",
+    "core_conflict_definition",
+    "problem_route_selection",
+    "dna_selection",
+    "decision_rules",
+    "three_causally_distinct_strategies",
+    "strategy_comparison",
+    "recommendation_gate",
+    "contemporary_corrections",
+    "scheme_critic",
+    "single_image_visual_handoff",
+    "master_first_impression",
+    "concept_impression_prompt_close",
+    "prompt_fact_lock"
+  ],
+  "architect_specific_runtime": [
+    "space_movement_event_reasoning",
+    "notation_of_action",
+    "program_superposition",
+    "vector_envelope",
+    "context_content",
+    "concept_form"
+  ],
+  "excluded": [
+    "private_research_archives",
+    "source_dossiers",
+    "production_specifications",
+    "private_qa_history",
+    "batch_production_systems",
+    "private_publishing_systems",
+    "full_visualization_pipeline"
+  ]
+}

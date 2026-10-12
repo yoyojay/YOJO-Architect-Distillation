@@ -1,0 +1,4 @@
+# AR77-037｜FINAL ACCEPTANCE CHECKLIST
+Required: Product Role / First Contact / Gentle Guidance / Input Gate / Input Validation / Default Flow / Fit / Conflicts / Method / Collaboration Boundary / Route / DNA + Selection / Decision Rules / Anti-Premature-Form / A-B-C / Comparison / Recommendation / Corrections / Critic / Anti-Copy / Professional Boundary / Architect Confirmation / Prompt Close / Prompt Fact Lock / Single Image Handoff / Final Compliance / Runtime Source Hierarchy / Delivery Protection / Next Drawings-Tests.
+Mother: missing functions/files=[]; openai.yaml schema inherited; Input Form / Output Template / Handoff roles preserved; manifest customer-safe; internal QA excluded; SHA256; Clean ZIP.
+HARD FAIL: Sydney shells/tiles/podium copied; Bagsværd cloud ceiling copied; Can Lis stone/openings copied; Kingo/Fredensborg layout copied; natural-object outline used as method; Sydney engineering misattributed; unsupported Prompt facts.

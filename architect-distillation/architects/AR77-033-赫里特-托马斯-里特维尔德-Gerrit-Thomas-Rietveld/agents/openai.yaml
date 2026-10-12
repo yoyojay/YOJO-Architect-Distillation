@@ -1,0 +1,12 @@
+interface:
+  display_name: "033｜Gerrit Thomas Rietveld Architect Skill"
+  short_description: "把 Rietveld 的空间先于体量、构造即空间、可变生活、开放边界与标准构件逻辑转成可调用项目判断，而不是 De Stijl 风格生成器。"
+  default_prompt: "使用 $ar77-033-gerrit-thomas-rietveld，基于我提供的 AR77 项目资料完成项目前期建筑判断。"
+
+policy:
+  products:
+    - chatgpt
+    - codex
+    - api
+    - atlas
+  allow_implicit_invocation: true

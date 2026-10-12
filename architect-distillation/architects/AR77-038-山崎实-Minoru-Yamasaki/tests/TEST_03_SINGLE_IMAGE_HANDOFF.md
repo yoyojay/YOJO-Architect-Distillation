@@ -1,0 +1,2 @@
+# TEST 03｜SINGLE IMAGE HANDOFF
+PASS：仅 Dominant 确认后启用；只继承 confirmed facts / Method / Route / Dominant / optional Borrowed / Selected DNA / verified site-climate-light；有 Spatial Locks / Must Not Drift；不使用 Minoru Yamasaki / New Formalism style；不自动补 pointed arch / narrow window / white stone / fountain / plaza；只有单张 Handoff。

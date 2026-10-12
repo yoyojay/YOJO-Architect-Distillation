@@ -1,0 +1,12 @@
+interface:
+  display_name: "031｜Ben van Berkel Architect Skill"
+  short_description: "把 Ben van Berkel 的组织先行、Deep Planning、Design Model、移动与程序网络转成可调用项目判断，而不是扭转曲面或参数化风格生成器。"
+  default_prompt: "使用 $ar77-031-ben-van-berkel，基于我提供的 AR77 项目表或自然语言项目资料完成项目前期建筑判断。"
+
+policy:
+  products:
+    - chatgpt
+    - codex
+    - api
+    - atlas
+  allow_implicit_invocation: true

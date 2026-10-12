@@ -4,9 +4,9 @@
   "status": "early_bird",
   "early_bird_price": 199,
   "regular_price": 599,
-  "completed_count": 27,
+  "completed_count": 35,
   "target_count": 100,
-  "updated_at": "2026-09-21",
+  "updated_at": "2026-10-12",
   "skills": [
     {
       "id": "AR77-001",
@@ -248,6 +248,78 @@
       "name_en": "I. M. Pei",
       "category": "几何抽象 / 公共空间 / Geometric Abstraction",
       "slug": "AR77-028-贝聿铭-I-M-Pei",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-031",
+      "name_zh": "本·范·伯克尔",
+      "name_en": "Ben van Berkel",
+      "category": "组织与图解 / Diagram & Organization",
+      "slug": "AR77-031-本-范-伯克尔-Ben-van-Berkel",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-032",
+      "name_zh": "伯纳德·屈米",
+      "name_en": "Bernard Tschumi",
+      "category": "事件建筑 / Architecture of Event",
+      "slug": "AR77-032-伯纳德-屈米-Bernard-Tschumi",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-033",
+      "name_zh": "赫里特·托马斯·里特维尔德",
+      "name_en": "Gerrit Thomas Rietveld",
+      "category": "风格派 / De Stijl",
+      "slug": "AR77-033-赫里特-托马斯-里特维尔德-Gerrit-Thomas-Rietveld",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-034",
+      "name_zh": "埃里希·门德尔松",
+      "name_en": "Erich Mendelsohn",
+      "category": "表现主义 / Expressionism",
+      "slug": "AR77-034-埃里希-门德尔松-Erich-Mendelsohn",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-035",
+      "name_zh": "SOM 建筑事务所",
+      "name_en": "Skidmore, Owings & Merrill (SOM)",
+      "category": "综合实践 / Integrated Practice",
+      "slug": "AR77-035-SOM-Skidmore-Owings-Merrill",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-036",
+      "name_zh": "丹下健三",
+      "name_en": "Kenzo Tange",
+      "category": "新陈代谢 / Metabolisme",
+      "slug": "AR77-036-丹下健三-Kenzo-Tange",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-037",
+      "name_zh": "约恩·伍重",
+      "name_en": "Jorn Utzon",
+      "category": "有机形式 / Organic Form",
+      "slug": "AR77-037-约恩-伍重-Jorn-Utzon",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-038",
+      "name_zh": "山崎实",
+      "name_en": "Minoru Yamasaki",
+      "category": "典雅主义 / New Formalism",
+      "slug": "AR77-038-山崎实-Minoru-Yamasaki",
       "version": "1.0",
       "status": "completed"
     }

@@ -1,0 +1,48 @@
+{
+  "product": "AR77-031 Ben van Berkel Agent Skill Runtime",
+  "version": "1.0 FINAL",
+  "architect": "Ben van Berkel",
+  "ar77_id": "031",
+  "runtime_serial": "AR77-031-RUNTIME-UNASSIGNED",
+  "buyer_id": "UNASSIGNED",
+  "delivery_layer": "customer_runtime",
+  "includes_master_research": false,
+  "core_capabilities": [
+    "input_validation",
+    "project_fit",
+    "project_conflict_definition",
+    "problem_route_selection",
+    "dna_selection",
+    "decision_rules",
+    "three_causally_distinct_strategies",
+    "plan_section_movement_test",
+    "contemporary_corrections",
+    "recommendation_gate",
+    "scheme_critic",
+    "master_first_impression",
+    "concept_impression_prompt_close",
+    "prompt_fact_lock",
+    "single_image_visual_handoff"
+  ],
+  "excluded": [
+    "master_research",
+    "source_ledger",
+    "evidence_matrix",
+    "skill_manufacturing_method",
+    "full_visualization_pipeline",
+    "publishing_or_carousel_factory",
+    "private_qa_history"
+  ],
+  "qa_features": [
+    "Route primary-secondary hard lock",
+    "2-4 DNA consistency hard lock",
+    "Recommendation dominant + optional one borrowed mechanism",
+    "Rejected strategy no-reentry",
+    "Plan-Section-Movement test",
+    "Contemporary corrections",
+    "Prompt Fact Lock",
+    "Anti-copy lock"
+  ],
+  "smoke_test": "NOT TESTED",
+  "method_kernel_frozen": false
+}
