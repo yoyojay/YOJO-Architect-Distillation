@@ -1,5 +1,11 @@
 # 更新记录
 
+## 2026-11-16 收官
+
+- 补齐最后一个缺口 AR77-022 埃罗·沙里宁（Eero Saarinen），`AGENT_SKILL_FINAL v1.0` 可安装运行包（SHA256 校验通过）。
+- 完成进度由 49 / 100 推进至 **50 / 100**；编号 AR77-001 至 AR77-050 现已全部到位，无缺口。
+- `catalog.json` 同步更新 `completed_count` 与新增条目。
+
 ## 2026-11-16 补漏
 
 - 补齐两个历史缺口：AR77-029 阿尔瓦罗·西扎（Álvaro Siza）、AR77-030 安托万·普雷多克（Antoine Predock），均为 `AGENT_SKILL_FINAL v1.0` 可安装运行包（SHA256 校验通过）。

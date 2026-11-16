@@ -4,7 +4,7 @@
   "status": "early_bird",
   "early_bird_price": 199,
   "regular_price": 599,
-  "completed_count": 49,
+  "completed_count": 50,
   "target_count": 100,
   "updated_at": "2026-11-16",
   "skills": [
@@ -194,6 +194,15 @@
       "name_en": "Shigeru Ban",
       "category": "纸木构造 / 人道主义 / Paper & Timber",
       "slug": "AR77-021-坂茂-Shigeru-Ban",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-022",
+      "name_zh": "埃罗·沙里宁",
+      "name_en": "Eero Saarinen",
+      "category": "有机现代主义 / 结构表现 / Organic Modernism-Structural Expressionism",
+      "slug": "AR77-022-埃罗-沙里宁-Eero-Saarinen",
       "version": "1.0",
       "status": "completed"
     },

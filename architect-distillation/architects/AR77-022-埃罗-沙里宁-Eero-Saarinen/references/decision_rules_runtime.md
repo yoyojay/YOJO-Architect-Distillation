@@ -1,0 +1,11 @@
+# Decision Rules Runtime
+- Fact Lock：当具体事实无来源 → 保持 UNKNOWN/NEED VERIFY → 因为完整感不能替代证据 → 通过输入表核对 → 失败则删除具体化描述。
+- Fit：当项目需要特定身份与整体组织 → 优先进入 Saarinen Kernel → 因为其证据支持“job-specific + whole” → 通过主冲突检验 → 失败则 PARTIAL/NOT FIT。
+- Route：当一个冲突明显主导 → 只选一个 Primary Route → 避免方法混杂 → 用 plan/section/path 证据验证 → 失败返回 Method。
+- DNA：当 DNA 直接解决 Route 冲突 → 选入 3–5 个必要项 → 防止全量套用 → 用空间痕迹验证 → 无痕迹则取消选择。
+- Strategy：当生成 A/B/C → 必须改变首因 → 防止同方案换皮 → 比较组织链 → 若首因相同则重做。
+- Plan-Section-Movement：当核心命题成立 → 至少影响三者中的两者并能解释第三者 → 因为空间判断需跨图纸成立 → 验证互证 → 失败回 M3。
+- Performance：当表达依赖结构/声学/幕墙/环境 → 标 NEED VERIFY 并专业验证 → 历史形式不是性能证据 → 失败则调整机制。
+- Recommendation：当选 Dominant → 必须可独立成立，最多借一个机制 → 防止 A+B+C 混合 → 检查回流 → 失败重选。
+- Critic：当现有方案只靠图像效果 → 优先追问因果与使用 → 因为 style copy 不等于 judgement → 用 Route/DNA traces 验证 → 失败返回冲突。
+- Failure Return：任一关键机制无法留下空间痕迹或触犯硬边界 → 返回最近一个可修正上游节点，不用下游装饰补救。
