@@ -1,0 +1,43 @@
+{
+  "product": "AR77-042 Richard Meier Agent Skill Runtime",
+  "version": "1.0 CANDIDATE",
+  "architect": "Richard Meier",
+  "ar77_id": "042",
+  "runtime_serial": "AR77-042-RUNTIME-UNASSIGNED",
+  "buyer_id": "UNASSIGNED",
+  "delivery_layer": "customer_runtime",
+  "includes_master_research": false,
+  "core_capabilities": [
+    "first_contact",
+    "input_validation",
+    "project_fit",
+    "primary_problem_route",
+    "dna_selection",
+    "causally_distinct_three_strategies",
+    "comparison",
+    "recommendation_hard_lock",
+    "contemporary_corrections",
+    "scheme_critic",
+    "architect_confirmation",
+    "concept_impression_prompt",
+    "prompt_fact_lock",
+    "single_image_visual_handoff",
+    "next_drawings_tests"
+  ],
+  "excluded": [
+    "master_research",
+    "source_ledger",
+    "internal_evidence_matrix",
+    "carousel_factory",
+    "publishing_factory",
+    "full_visualization_pipeline"
+  ],
+  "qa_patch": [
+    "Recommendation Strategy Count Gate",
+    "Unselected DNA exclusion",
+    "Prompt Fact Lock material-geometry-climate checks",
+    "First Impression content gate",
+    "Post-confirmation visual handoff",
+    "No fixed Richard Meier style"
+  ]
+}

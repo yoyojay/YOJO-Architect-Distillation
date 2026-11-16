@@ -4,9 +4,9 @@
   "status": "early_bird",
   "early_bird_price": 199,
   "regular_price": 599,
-  "completed_count": 35,
+  "completed_count": 47,
   "target_count": 100,
-  "updated_at": "2026-10-12",
+  "updated_at": "2026-11-16",
   "skills": [
     {
       "id": "AR77-001",
@@ -320,6 +320,114 @@
       "name_en": "Minoru Yamasaki",
       "category": "典雅主义 / New Formalism",
       "slug": "AR77-038-山崎实-Minoru-Yamasaki",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-039",
+      "name_zh": "罗伯特·文丘里",
+      "name_en": "Robert Venturi",
+      "category": "现代主义 / 后现代主义 / Modernism-Postmodernism",
+      "slug": "AR77-039-罗伯特-文丘里-Robert-Venturi",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-040",
+      "name_zh": "詹姆斯·斯特林",
+      "name_en": "James Stirling",
+      "category": "后现代主义 / 功能符号 / Postmodernism-Functional Symbolism",
+      "slug": "AR77-040-詹姆斯-斯特林-James-Stirling",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-041",
+      "name_zh": "凯文·罗奇",
+      "name_en": "Kevin Roche",
+      "category": "机构建筑 / 建筑与景观 / Institutional & Landscape",
+      "slug": "AR77-041-凯文-罗奇-Kevin-Roche",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-042",
+      "name_zh": "理查德·迈耶",
+      "name_en": "Richard Meier",
+      "category": "白色派 / 秩序与光 / White School-Order & Light",
+      "slug": "AR77-042-理查德-迈耶-Richard-Meier",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-043",
+      "name_zh": "路易斯·巴拉甘",
+      "name_en": "Luis Barragán",
+      "category": "场所情感 / 光与色彩 / Emotion-Place-Light & Color",
+      "slug": "AR77-043-路易斯-巴拉甘-Luis-Barragán",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-044",
+      "name_zh": "戈特弗里德·伯姆",
+      "name_en": "Gottfried Böhm",
+      "category": "表现主义 / 城市修补 / Expressionism-Urban Repair",
+      "slug": "AR77-044-戈特弗里德-伯姆-Gottfried-Böhm",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-045",
+      "name_zh": "汉斯·霍莱因",
+      "name_en": "Hans Hollein",
+      "category": "总体环境 / 建筑即传播 / Total Environment-Communication",
+      "slug": "AR77-045-汉斯-霍莱因-Hans-Hollein",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-046",
+      "name_zh": "阿尔多·罗西",
+      "name_en": "Aldo Rossi",
+      "category": "类型学与城市记忆 / Typology & Collective Memory",
+      "slug": "AR77-046-阿尔多-罗西-Aldo-Rossi",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-047",
+      "name_zh": "槙文彦",
+      "name_en": "Fumihiko Maki",
+      "category": "新陈代谢 / 集群形态 / Metabolism-Collective Form",
+      "slug": "AR77-047-槙文彦-Fumihiko-Maki",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-048",
+      "name_zh": "克里斯蒂安·德·波特赞姆巴克",
+      "name_en": "Christian de Portzamparc",
+      "category": "都市主义 / 开放街区 / Urbanism-Open Block",
+      "slug": "AR77-048-克里斯蒂安-德-波特赞姆巴克-Christian-de-Portzamparc",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-049",
+      "name_zh": "拉斐尔·莫尼欧",
+      "name_en": "Rafael Moneo",
+      "category": "场所文脉 / 类型转化 / Context & Type Transformation",
+      "slug": "AR77-049-拉斐尔-莫尼欧-Rafael-Moneo",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-050",
+      "name_zh": "赫尔佐格与德梅隆",
+      "name_en": "Herzog & de Meuron",
+      "category": "表皮与感知 / 适应性再利用 / Envelope & Perception-Adaptive Reuse",
+      "slug": "AR77-050-赫尔佐格与德梅隆-Herzog-&-de-Meuron",
       "version": "1.0",
       "status": "completed"
     }

@@ -1,0 +1,12 @@
+interface:
+  display_name: "049｜Rafael Moneo Architect Skill"
+  short_description: "把拉斐尔·莫内欧的场地具体性、可变类型、历史与城市接续、功能重组、剖面流线和建造必要性转译为真实项目判断，而非砖拱或厚墙风格复制。"
+  default_prompt: "使用 $ar77-049-rafael-moneo，依据我的 AR77 项目输入和现有资料执行 Fact Lock、Fit、Method/Route/DNA、因果不同的 A/B/C、单一主推荐与可验证 Prompt。"
+
+policy:
+  products:
+    - chatgpt
+    - codex
+    - api
+    - atlas
+  allow_implicit_invocation: true

@@ -1,0 +1,11 @@
+interface:
+  display_name: "042｜Richard Meier Architect Skill"
+  short_description: "把迈耶的场地秩序、公私关系、路径与停驻、可控自然光转成可验证的平剖面判断，不生产纯白建筑风格。"
+  default_prompt: "使用 $ar77-042-richard-meier，基于我的实际项目资料完成输入事实锁、空间矛盾、Route/DNA选择、三种因果不同策略、比较、推荐与需要验证的图纸。"
+policy:
+  products:
+    - chatgpt
+    - codex
+    - api
+    - atlas
+  allow_implicit_invocation: true

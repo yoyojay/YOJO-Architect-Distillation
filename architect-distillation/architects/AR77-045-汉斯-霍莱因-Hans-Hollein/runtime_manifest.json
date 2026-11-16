@@ -1,0 +1,40 @@
+{
+  "product": "AR77-045 Hans Hollein Agent Skill Runtime",
+  "version": "1.0",
+  "architect_id": "045",
+  "architect": "Hans Hollein",
+  "delivery_layer": "customer_runtime",
+  "runtime_serial": "AR77-045-RUNTIME-UNASSIGNED",
+  "buyer_id": "UNASSIGNED",
+  "smoke_test": "NOT TESTED",
+  "method_kernel_frozen": false,
+  "features": [
+    "full_main_skill_runtime",
+    "first_contact",
+    "input_gate",
+    "fact_lock",
+    "fit",
+    "conflict_mapping",
+    "environment_medium_method",
+    "problem_route_selection",
+    "dna_selection",
+    "A_B_C_causal_strategies",
+    "comparison",
+    "recommendation_gate",
+    "contemporary_corrections",
+    "scheme_critic",
+    "confirmation",
+    "concept_prompt_fact_lock",
+    "single_image_visual_handoff",
+    "delivery_protection"
+  ],
+  "excludes": [
+    "master_research",
+    "source_ledger",
+    "private_qa",
+    "benchmark",
+    "factory_rules",
+    "publishing_assets",
+    "carousel_factory"
+  ]
+}

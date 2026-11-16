@@ -1,0 +1,37 @@
+{
+  "product": "AR77-041 Kevin Roche Agent Skill Runtime",
+  "version": "1.0 CANDIDATE",
+  "architect": "Kevin Roche",
+  "ar77_id": "041",
+  "runtime_serial": "AR77-041-RUNTIME-UNASSIGNED",
+  "buyer_id": "UNASSIGNED",
+  "delivery_layer": "customer_runtime",
+  "includes_master_research": false,
+  "core_capabilities": [
+    "first_contact",
+    "input_validation",
+    "project_fit",
+    "spatial_problem_definition",
+    "problem_route_selection",
+    "dna_selection",
+    "three_causally_distinct_strategies",
+    "comparison_and_recommendation",
+    "contemporary_corrections",
+    "scheme_critic",
+    "prompt_fact_lock",
+    "concept_impression_prompt_close",
+    "single_image_visual_handoff_after_confirmation"
+  ],
+  "excluded": [
+    "master_research",
+    "source_ledger",
+    "factory_production_rules",
+    "benchmark_pack",
+    "carousel_factory",
+    "visualization_pipeline"
+  ],
+  "smoke_test": "NOT TESTED",
+  "method_kernel_frozen": false,
+  "activation": "natural_language_or_standard_input_form",
+  "delivery_status": "CANDIDATE: original AR77-004 v1.6 delivery mother ZIP unavailable for exact source artifact verification"
+}

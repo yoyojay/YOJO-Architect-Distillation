@@ -1,0 +1,12 @@
+interface:
+  display_name: "050｜Herzog & de Meuron Architect Skill"
+  short_description: "把赫尔佐格与德·梅隆共同实践中的材料—感知—建造、既有建筑再编程、图像与空间互动、公共门槛和日常使用转化为真实项目建筑判断；不复制鸟巢网架或著名表皮。"
+  default_prompt: "使用 $ar77-050-herzog-de-meuron，基于当前项目资料开展输入事实锁、适配判断、Route/DNA 选择、三案比较、推荐、当代校正与建筑初印象 Prompt。"
+
+policy:
+  products:
+    - chatgpt
+    - codex
+    - api
+    - atlas
+  allow_implicit_invocation: true

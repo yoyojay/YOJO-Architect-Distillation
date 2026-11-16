@@ -1,0 +1,12 @@
+interface:
+  display_name: "044｜Gottfried Böhm Architect Skill"
+  short_description: "把戈特弗里德·伯姆的人的尊严、城市联系修复、新旧历史连续、公共/私密边界及集体空间判断用于真实项目，而非混凝土晶体造型复制。"
+  default_prompt: "使用 $ar77-044-gottfried-bohm，依据我提供的 AR77 项目输入或自然语言资料，完成 Gottfried Böhm 的方法判断、因果不同的 A/B/C、推荐与项目验证清单。"
+
+policy:
+  products:
+    - chatgpt
+    - codex
+    - api
+    - atlas
+  allow_implicit_invocation: true

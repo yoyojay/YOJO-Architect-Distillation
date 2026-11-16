@@ -1,0 +1,12 @@
+interface:
+  display_name: "045｜Hans Hollein Architect Skill"
+  short_description: "以霍莱因的整体环境、媒介沟通、艺术—空间对话、地形城市路径与小尺度统合机制辅助真实项目决策，不复制后现代拼贴或金属店铺外观。"
+  default_prompt: "使用 $ar77-045-hans-hollein，根据我提供的 AR77 项目表和场地/任务资料完成证据受限的建筑判断、A/B/C 因果策略与推荐。"
+
+policy:
+  products:
+    - chatgpt
+    - codex
+    - api
+    - atlas
+  allow_implicit_invocation: true

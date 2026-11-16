@@ -1,0 +1,39 @@
+{
+  "product": "AR77-048 Christian de Portzamparc Architect Skill Runtime",
+  "version": "1.0",
+  "architect": "Christian de Portzamparc",
+  "ar77_id": "048",
+  "runtime_serial": "AR77-048-RUNTIME-UNASSIGNED",
+  "buyer_id": "UNASSIGNED",
+  "delivery_layer": "customer_runtime",
+  "includes_master_research": false,
+  "core_capabilities": [
+    "first_impression",
+    "project_input",
+    "fact_lock",
+    "fit",
+    "project_conflicts",
+    "city_void_method",
+    "route_selection",
+    "dna_selection",
+    "A_B_C_causally_distinct",
+    "comparison",
+    "single_dominant_recommendation",
+    "contemporary_corrections",
+    "scheme_critic",
+    "anti_copy",
+    "architect_confirmation",
+    "concept_prompt_close",
+    "prompt_fact_lock",
+    "single_image_visual_handoff"
+  ],
+  "excluded": [
+    "master_research",
+    "source_ledger",
+    "factory_rules",
+    "benchmark_pack",
+    "private_qa",
+    "carousel_publishing_logic",
+    "full_visual_generation"
+  ]
+}

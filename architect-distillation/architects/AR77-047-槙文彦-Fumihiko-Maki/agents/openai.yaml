@@ -1,0 +1,12 @@
+interface:
+  display_name: "047｜Fumihiko Maki Architect Skill"
+  short_description: "把槙文彦的群体形态、真实连接、分期公共性、城市纵深、社会场景与程序协作转成可调用的建筑判断，而非玻璃金属或代谢派外观生成器。"
+  default_prompt: "使用 $ar77-047-fumihiko-maki，依据我提供的 AR77 项目表或项目资料完成建筑判断，先区分事实，再选择 Route 与必要 DNA，给出因果不同的 A/B/C 和推荐。"
+
+policy:
+  products:
+    - chatgpt
+    - codex
+    - api
+    - atlas
+  allow_implicit_invocation: true

@@ -1,5 +1,12 @@
 # 更新记录
 
+## 2026-11-16
+
+- 新增 12 位建筑师 Skill：AR77-039 罗伯特·文丘里（Robert Venturi）、AR77-040 詹姆斯·斯特林（James Stirling）、AR77-041 凯文·罗奇（Kevin Roche）、AR77-042 理查德·迈耶（Richard Meier）、AR77-043 路易斯·巴拉甘（Luis Barragán）、AR77-044 戈特弗里德·伯姆（Gottfried Böhm）、AR77-045 汉斯·霍莱因（Hans Hollein）、AR77-046 阿尔多·罗西（Aldo Rossi）、AR77-047 槙文彦（Fumihiko Maki）、AR77-048 克里斯蒂安·德·波特赞姆巴克（Christian de Portzamparc）、AR77-049 拉斐尔·莫尼欧（Rafael Moneo）、AR77-050 赫尔佐格与德梅隆（Herzog & de Meuron）。
+- 完成进度由 35 / 100 推进至 47 / 100。
+- `catalog.json` 同步更新 `completed_count` 与十二个新增条目。
+- 说明：AR77-040 / 041 / 042 交付版本标记为 CANDIDATE，运行包结构与 FINAL 一致（含完整 SKILL.md、运行时与测试），按可安装 Skill 入库；版本字段以 `1.0` 记录。
+
 ## 2026-10-12
 
 - 新增 8 位建筑师 Skill：AR77-031 本·范·伯克尔（Ben van Berkel）、AR77-032 伯纳德·屈米（Bernard Tschumi）、AR77-033 赫里特·托马斯·里特维尔德（Gerrit Thomas Rietveld）、AR77-034 埃里希·门德尔松（Erich Mendelsohn）、AR77-035 SOM 建筑事务所（Skidmore, Owings & Merrill）、AR77-036 丹下健三（Kenzo Tange）、AR77-037 约恩·伍重（Jorn Utzon）、AR77-038 山崎实（Minoru Yamasaki）。

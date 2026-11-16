@@ -1,0 +1,42 @@
+{
+  "product": "AR77-040 James Stirling Agent Skill Runtime",
+  "version": "1.0 CANDIDATE",
+  "architect": "James Stirling",
+  "ar77_id": "040",
+  "runtime_serial": "AR77-040-RUNTIME-UNASSIGNED",
+  "buyer_id": "UNASSIGNED",
+  "delivery_layer": "customer_runtime",
+  "includes_master_research": false,
+  "core_capabilities": [
+    "master_first_impression",
+    "natural_language_input",
+    "standard_project_input",
+    "fact_lock",
+    "project_fit",
+    "problem_route_selection",
+    "dna_selection",
+    "three_causally_distinct_strategies",
+    "comparison",
+    "recommendation_gate",
+    "contemporary_corrections",
+    "scheme_critic",
+    "anti_copy",
+    "prompt_fact_lock",
+    "architect_confirmation",
+    "single_image_visual_handoff",
+    "next_drawings_and_tests"
+  ],
+  "excluded": [
+    "master_research",
+    "source_ledger",
+    "factory_rules",
+    "benchmark_pack",
+    "internal_qa_history",
+    "bulk_skill_manufacturing",
+    "visualization_pipeline",
+    "carousel_publishing_workflow"
+  ],
+  "release_state": "CANDIDATE",
+  "smoke_test": "NOT TESTED",
+  "method_kernel_frozen": false
+}

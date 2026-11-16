@@ -1,0 +1,12 @@
+interface:
+  display_name: "040｜James Stirling Architect Skill"
+  short_description: "以斯特林的功能表达、类型转译与建筑组合机制分析当代建筑项目，而非复制后现代外观。"
+  default_prompt: "使用 $ar77-040-james-stirling，依据我提供的项目事实执行 AR77 的项目适配、路线与 DNA 选择、A/B/C 空间策略、推荐与 Prompt Fact Lock。"
+
+policy:
+  products:
+    - chatgpt
+    - codex
+    - api
+    - atlas
+  allow_implicit_invocation: true
