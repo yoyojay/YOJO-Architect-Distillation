@@ -1,0 +1,50 @@
+{
+  "product": "AR77-030 Antoine Predock Agent Skill Runtime",
+  "version": "1.0 FINAL",
+  "architect": "Antoine Predock",
+  "ar77_id": "030",
+  "runtime_serial": "AR77-030-RUNTIME-UNASSIGNED",
+  "buyer_id": "UNASSIGNED",
+  "delivery_layer": "customer_runtime",
+  "includes_master_research": false,
+  "core_capabilities": [
+    "input_validation",
+    "project_fit",
+    "project_conflicts",
+    "problem_route_selection",
+    "dna_selection",
+    "decision_rules",
+    "plan_section_movement_evidence",
+    "three_causal_strategies",
+    "recommendation_gate",
+    "contemporary_corrections",
+    "scheme_critic",
+    "single_image_visual_handoff",
+    "master_first_impression",
+    "concept_impression_prompt_close",
+    "prompt_fact_lock"
+  ],
+  "excluded": [
+    "master_research",
+    "source_ledger",
+    "evidence_matrix",
+    "skill_manufacturing_method",
+    "private_qa_history",
+    "full_visualization_pipeline",
+    "carousel_factory",
+    "publishing_canon"
+  ],
+  "qa_features": [
+    "Route Selection Hard Lock",
+    "DNA Selection Hard Lock",
+    "Plan-Section-Movement Evidence Gate",
+    "Causally Distinct A/B/C Hard Lock",
+    "Recommendation Strategy Count Gate",
+    "Rejected Strategy No-Reentry",
+    "First Impression Content Gate",
+    "Prompt Fact Lock",
+    "Customer Delivery Protection"
+  ],
+  "smoke_test": "NOT TESTED",
+  "method_kernel_frozen": "NO / PENDING SMOKE TEST"
+}

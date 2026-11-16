@@ -4,7 +4,7 @@
   "status": "early_bird",
   "early_bird_price": 199,
   "regular_price": 599,
-  "completed_count": 47,
+  "completed_count": 49,
   "target_count": 100,
   "updated_at": "2026-11-16",
   "skills": [
@@ -248,6 +248,24 @@
       "name_en": "I. M. Pei",
       "category": "几何抽象 / 公共空间 / Geometric Abstraction",
       "slug": "AR77-028-贝聿铭-I-M-Pei",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-029",
+      "name_zh": "阿尔瓦罗·西扎",
+      "name_en": "Álvaro Siza",
+      "category": "场所转化 / 极少充分 / Situation Transformation-Minimal Sufficient",
+      "slug": "AR77-029-阿尔瓦罗-西扎-Álvaro-Siza",
+      "version": "1.0",
+      "status": "completed"
+    },
+    {
+      "id": "AR77-030",
+      "name_zh": "安托万·普雷多克",
+      "name_en": "Antoine Predock",
+      "category": "场所证据 / 环境力 / Place Evidence-Environmental Forces",
+      "slug": "AR77-030-安托万-普雷多克-Antoine-Predock",
       "version": "1.0",
       "status": "completed"
     },

@@ -1,5 +1,11 @@
 # 更新记录
 
+## 2026-11-16 补漏
+
+- 补齐两个历史缺口：AR77-029 阿尔瓦罗·西扎（Álvaro Siza）、AR77-030 安托万·普雷多克（Antoine Predock），均为 `AGENT_SKILL_FINAL v1.0` 可安装运行包（SHA256 校验通过）。
+- 完成进度由 47 / 100 推进至 49 / 100。
+- `catalog.json` 同步更新 `completed_count` 与两个新增条目；编号 001-050 现仅缺 AR77-022。
+
 ## 2026-11-16
 
 - 新增 12 位建筑师 Skill：AR77-039 罗伯特·文丘里（Robert Venturi）、AR77-040 詹姆斯·斯特林（James Stirling）、AR77-041 凯文·罗奇（Kevin Roche）、AR77-042 理查德·迈耶（Richard Meier）、AR77-043 路易斯·巴拉甘（Luis Barragán）、AR77-044 戈特弗里德·伯姆（Gottfried Böhm）、AR77-045 汉斯·霍莱因（Hans Hollein）、AR77-046 阿尔多·罗西（Aldo Rossi）、AR77-047 槙文彦（Fumihiko Maki）、AR77-048 克里斯蒂安·德·波特赞姆巴克（Christian de Portzamparc）、AR77-049 拉斐尔·莫尼欧（Rafael Moneo）、AR77-050 赫尔佐格与德梅隆（Herzog & de Meuron）。

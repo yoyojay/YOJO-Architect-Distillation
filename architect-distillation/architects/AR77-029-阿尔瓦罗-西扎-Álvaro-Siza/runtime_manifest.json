@@ -1,0 +1,45 @@
+{
+  "product": "AR77-029 Álvaro Siza Agent Skill Runtime",
+  "version": "1.0 FINAL",
+  "architect": "Álvaro Siza",
+  "ar77_id": "029",
+  "runtime_serial": "AR77-029-RUNTIME-UNASSIGNED",
+  "buyer_id": "UNASSIGNED",
+  "delivery_layer": "customer_runtime",
+  "includes_master_research": false,
+  "method_kernel_frozen": false,
+  "smoke_test": "NOT TESTED",
+  "core_capabilities": [
+    "input_validation",
+    "project_fit",
+    "project_conflicts",
+    "problem_route_selection",
+    "minimal_sufficient_dna_selection",
+    "three_causally_distinct_strategies",
+    "comparison",
+    "recommendation_gate",
+    "contemporary_corrections",
+    "scheme_critic",
+    "master_first_impression",
+    "concept_impression_prompt_close",
+    "prompt_fact_lock",
+    "single_image_visual_handoff"
+  ],
+  "excluded": [
+    "master_research",
+    "source_ledger",
+    "evidence_matrix",
+    "full_visualization_pipeline"
+  ],
+  "qa_features": [
+    "Fact Lock",
+    "Primary Route Lock",
+    "DNA no-reentry",
+    "A/B/C causal distinction",
+    "Plan-Section-Movement trace",
+    "Dominant/Borrowed/Rejected recommendation gate",
+    "First Impression Content Gate",
+    "Prompt Fact Lock",
+    "Single Image Handoff Fact Lock"
+  ]
+}
